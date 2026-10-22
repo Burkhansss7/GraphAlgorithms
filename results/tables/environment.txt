@@ -1,0 +1,8 @@
+Java version: 17.0.20.1
+JVM: OpenJDK 64-Bit Server VM
+OS: Mac OS X
+Architecture: aarch64
+Available processors: 10
+Seed: 42
+Warmup runs: 20
+Measured runs: 5
